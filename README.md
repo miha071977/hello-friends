@@ -1,2 +1,2 @@
 # hello-friends
-Just another repository
+меня зовут михаил
